@@ -1,0 +1,6 @@
+web_homepage:
+    pattern:  /
+    defaults: { _controller: WebBundle:Default:index }
+shop:
+    pattern:  /shop
+    defaults: { _controller: WebBundle:Shop:index }

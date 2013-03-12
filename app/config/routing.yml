@@ -1,0 +1,13 @@
+web:
+    resource: "@WebBundle/Resources/config/routing.yml"
+    prefix:   /
+
+admin:
+    resource: "@AdminBundle/Resources/config/routing.yml"
+    prefix:   /admin
+
+user:
+    resource: "@UserBundle/Controller"
+    prefix:   /
+    type: annotation
+

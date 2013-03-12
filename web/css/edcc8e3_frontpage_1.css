@@ -1,0 +1,17 @@
+section.content {
+  width: 1024px;
+  max-width: 1024px;
+  min-width: 1024px;
+  margin: auto;
+  /* some basic fixes */
+  /* end */ }
+  section.content hr {
+    margin: 0; }
+  section.content section.header h1 {
+    text-transform: uppercase;
+    font-size: 26px; }
+  section.content section.header h2 {
+    float: right;
+    font-size: 16px; }
+  section.content section.header h1, section.content section.header h2 {
+    display: inline-block; }
