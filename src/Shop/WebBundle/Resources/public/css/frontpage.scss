@@ -15,6 +15,12 @@ section.content  {
     h1 {
       text-transform: uppercase;
       font-size: 26px;
+      a {
+        color: rgb(51, 51, 51);
+        &:hover {
+          text-decoration: none;
+        }
+      }
     }
 
     h2 {
@@ -26,6 +32,10 @@ section.content  {
       display: inline-block;
     }
 
+    .log-in-button {
+      float: right;
+      margin: 15px 10px 0 20px;
+    }
   }
 
 }

@@ -10,8 +10,15 @@ section.content {
   section.content section.header h1 {
     text-transform: uppercase;
     font-size: 26px; }
+    section.content section.header h1 a {
+      color: #333333; }
+      section.content section.header h1 a:hover {
+        text-decoration: none; }
   section.content section.header h2 {
     float: right;
     font-size: 16px; }
   section.content section.header h1, section.content section.header h2 {
     display: inline-block; }
+  section.content section.header .log-in-button {
+    float: right;
+    margin: 15px 10px 0 20px; }

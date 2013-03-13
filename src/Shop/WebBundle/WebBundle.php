@@ -4,6 +4,6 @@ namespace Shop\WebBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class WebBundle extends Bundle
+class WebBundle  extends Bundle
 {
 }

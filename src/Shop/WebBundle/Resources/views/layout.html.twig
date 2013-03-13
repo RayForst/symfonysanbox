@@ -1,0 +1,37 @@
+{% extends '::base.html.twig' %}
+
+{% block stylesheets %}
+    {{ parent() }}
+    {% stylesheets filter='cssrewrite' output='css/*.css'
+    'bundles/web/css/frontpage.scss'
+    %}
+    <link rel="stylesheet" href="{{ asset_url }}" />
+    {% endstylesheets %}
+{% endblock %}
+
+{% block body %}
+    <section class="content">
+        <section class="header">
+            <hgroup>
+                <h1><a href="{{ path('web_homepage') }}">Creepy shop</a></h1>
+                {% if is_granted('IS_AUTHENTICATED_REMEMBERED') %}
+                    <a href="{{ path('logout') }}" class="ir btn btn-info log-in-button">Log Out</a>
+                {% else  %}
+                    <a href="{{ path('login') }}" class="ir btn btn-success log-in-button">Log In</a>
+                {% endif %}
+                <h2>we sell unhealthy things</h2>
+            </hgroup>
+            <hr>
+        </section>
+        <section class="body">
+            {% block content %}
+
+            {% endblock %}
+        </section>
+    </section>
+{% endblock %}
+
+{% block javascripts %}
+    {{ parent() }}
+    <script src="{{ asset('bundles/user/js/user.js') }}" type="text/javascript"></script>
+{% endblock %}
