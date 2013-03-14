@@ -1,1 +1,22 @@
 {% extends 'WebBundle::layout.html.twig' %}
+
+{% block content %}
+    <section class="product_list">
+        {% for i in 0..11 %}
+            <div class="product">
+                <img src="http://placehold.it/175x175">
+                <p class="product_desc">
+                    <span class="product_price">$10</span>
+                    <a href="#" class="btn btn-small btn-info">Take My Money</a>
+                </p>
+            </div>
+        {% endfor %}
+    </section>
+    <aside class="menu">
+        <ul class="unstyled">
+            {% for i in 0..6 %}
+                 <li>Menu Item</li>
+            {% endfor %}
+        </ul>
+    </aside>
+{% endblock %}

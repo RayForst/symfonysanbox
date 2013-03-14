@@ -22,3 +22,27 @@ section.content {
   section.content section.header .log-in-button {
     float: right;
     margin: 15px 10px 0 20px; }
+  section.content section.body {
+    padding: 20px; }
+    section.content section.body section.product_list {
+      float: left;
+      width: 836px; }
+      section.content section.body section.product_list div.product {
+        display: inline-block;
+        padding: 7px 7px 0px 7px;
+        border: 1px solid #e4e4e4;
+        margin-right: 15px;
+        margin-bottom: 15px; }
+        section.content section.body section.product_list div.product img {
+          margin-bottom: 10px; }
+        section.content section.body section.product_list div.product .product_desc .product_price {
+          font-size: 25px;
+          color: green;
+          font-weight: bold;
+          margin: 0 9px; }
+        section.content section.body section.product_list div.product a.btn {
+          margin-top: -8px; }
+    section.content section.body aside.menu {
+      height: 500px;
+      float: left;
+      width: 148px; }
