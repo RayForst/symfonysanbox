@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Shop/UserBundle/DataFixtures/ORM/LoadUsers.php" line="21" mnemonic="4" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ea3f6bb4-4766-4f20-86cf-8bd376195172" name="Default" comment="" />
     <ignored path="mytestshop.iws" />
@@ -7,8 +10,25 @@
     <file path="/index.html.twig" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363274713904" ignored="false" />
     <file path="/frontpage.scss" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363274283452" ignored="false" />
     <file path="/dummy.xml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363274208929" ignored="false" />
-    <file path="/User.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363275739279" ignored="false" />
-    <file path="/parameters.yml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363276511379" ignored="false" />
+    <file path="/User.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363362515176" ignored="false" />
+    <file path="/parameters.yml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363341612228" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363333196136" ignored="false" />
+    <file path="/security.yml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363333103110" ignored="false" />
+    <file path="/a.dummy" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363356900600" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/.idea/workspace.xml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363362690151" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/.gitignore" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363341545296" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/app/config/parameters.yml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363341612787" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/app/cache/dev/appDevDebugProjectContainer.xml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363341239974" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/app/autoload.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363341900442" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/vendor/sensio/framework-extra-bundle/Sensio/Bundle/FrameworkExtraBundle/Configuration/ConfigurationInterface.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363342861508" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/app/config/routing_dev.yml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363343443284" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/bin/doctrine" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363343455126" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/src/Roamer/Bundle/CoreBundle/DependencyInjection/Configuration.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363346374634" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/src/Roamer/Bundle/CoreBundle/DependencyInjection/RoamerCoreExtension.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363346894834" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/src/Roamer/Bundle/CoreBundle/Resources/config/services.xml" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363349126112" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/src/Roamer/Bundle/WebsiteBundle/Controller/DefaultController.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363351097414" ignored="false" />
+    <file path="$PROJECT_DIR$/../roamer/src/Roamer/Bundle/ApiBundle/Controller/BaseController.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363351218675" ignored="false" />
+    <file path="/LoadEvents.php" changelist="ea3f6bb4-4766-4f20-86cf-8bd376195172" time="1363359425934" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="User.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Entity/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="7" selection-start="436" selection-end="436" vertical-scroll-proportion="-13.125">
+            <state line="234" column="5" selection-start="4745" selection-end="4745" vertical-scroll-proportion="1.5251142">
               <folding>
                 <element signature="e#42#74#0" expanded="true" />
               </folding>
@@ -57,37 +77,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parameters.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="parameters.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="24" selection-start="189" selection-end="189" vertical-scroll-proportion="0.12676056">
+            <state line="15" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frontpage.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Shop/WebBundle/Resources/public/css/frontpage.scss">
+      <file leaf-file-name="composer.lock" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="25" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Controller/LoginController.php">
+      <file leaf-file-name="LoadUsers.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/DataFixtures/ORM/LoadUsers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="702" selection-end="702" vertical-scroll-proportion="-9.833333">
+            <state line="29" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="-16.25">
+              <folding>
+                <element signature="e#52#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContainerAwareInterface.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ContainerAwareInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="10" selection-start="458" selection-end="458" vertical-scroll-proportion="-8.125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messages.en.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Resources/translations/messages.en.yml">
+      <file leaf-file-name="AppKernel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+            <state line="10" column="72" selection-start="277" selection-end="277" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
@@ -102,19 +133,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="security.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/security.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="7" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Resources/views/Login/login.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-18.75">
+            <state line="23" column="31" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,31 +152,31 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Shop/UserBundle/UserBundle.php" />
-        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-        <option value="$PROJECT_DIR$/web/.htaccess" />
-        <option value="$PROJECT_DIR$/app/config/security.yml" />
-        <option value="$PROJECT_DIR$/src/Shop/UserBundle/Resources/public/css/user.scss" />
-        <option value="$PROJECT_DIR$/src/Shop/UserBundle/Controller/LoginController.php" />
         <option value="$PROJECT_DIR$/src/Shop/UserBundle/Resources/public/js/user.js" />
         <option value="$PROJECT_DIR$/src/Shop/UserBundle/Resources/views/Login/login.html.twig" />
         <option value="$PROJECT_DIR$/src/Shop/UserBundle/Resources/translations/messages.en.yml" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Shop/WebBundle/Resources/views/layout.html.twig" />
         <option value="$PROJECT_DIR$/src/Shop/WebBundle/Resources/public/css/frontpage.scss" />
         <option value="$PROJECT_DIR$/src/Shop/WebBundle/Resources/views/Frontpage/index.html.twig" />
-        <option value="$PROJECT_DIR$/src/Shop/UserBundle/Entity/User.php" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ContainerAwareInterface.php" />
+        <option value="$PROJECT_DIR$/src/Shop/UserBundle/DataFixtures/ORM/LoadEvents.php" />
+        <option value="$PROJECT_DIR$/src/Shop/UserBundle/DataFixtures/ORM/LoadUsers.php" />
+        <option value="$PROJECT_DIR$/src/Shop/UserBundle/Entity/User.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="-4" />
-    <option name="width" value="1442" />
-    <option name="height" value="905" />
+    <option name="x" value="1" />
+    <option name="y" value="52" />
+    <option name="width" value="1438" />
+    <option name="height" value="847" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -210,38 +232,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mytestshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mytestshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mytestshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mytestshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -261,10 +251,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,6 +319,18 @@
               <option name="myItemId" value="Shop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataFixtures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -375,8 +373,8 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="options.lastSelected" value="preferences.sourceCode.General" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="My Test Shop" serverId="3cedbacc-ce3e-463c-9f51-2e14e7cdd14c">
     <servers>
@@ -441,19 +439,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1442" height="905" extended-state="6" />
+    <frame x="1" y="52" width="1438" height="847" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23027259" sideWeight="0.67107004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1795977" sideWeight="0.86950547" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1304945" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -525,64 +523,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="31" selection-start="728" selection-end="734" vertical-scroll-proportion="0.55954087" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Resources/public/js/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="24" selection-start="38" selection-end="38" vertical-scroll-proportion="0.021520803" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Resources/public/css/user.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="147" selection-end="147" vertical-scroll-proportion="0.12482663" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="21" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.54545456" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shop/WebBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="12" selection-start="0" selection-end="12" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="7" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Resources/translations/messages.en.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="22" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Controller/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="702" selection-end="702" vertical-scroll-proportion="-9.833333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Resources/views/Login/login.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-18.75">
+        <state line="30" column="0" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -594,16 +537,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shop/WebBundle/Resources/views/layout.html.twig">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="949" selection-end="949" vertical-scroll-proportion="-16.875">
+        <state line="55" column="21" selection-start="1179" selection-end="1179" vertical-scroll-proportion="1.1619718" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="39" selection-start="736" selection-end="736" vertical-scroll-proportion="0.43378997">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/block.rnc">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="21" selection-start="1179" selection-end="1179" vertical-scroll-proportion="1.1619718">
+        <state line="16" column="7" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="22" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="31" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -615,19 +598,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Entity/User.php">
+    <entry file="file://$PROJECT_DIR$/src/Shop/WebBundle/Resources/views/layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="7" selection-start="436" selection-end="436" vertical-scroll-proportion="-13.125">
+        <state line="27" column="0" selection-start="949" selection-end="949" vertical-scroll-proportion="-16.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ContainerAwareInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="10" selection-start="458" selection-end="458" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/DataFixtures/ORM/LoadUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="-16.25">
           <folding>
-            <element signature="e#42#74#0" expanded="true" />
+            <element signature="e#52#102#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="24" selection-start="189" selection-end="189" vertical-scroll-proportion="0.12676056">
+        <state line="10" column="72" selection-start="277" selection-end="277" vertical-scroll-proportion="-5.625">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shop/UserBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="5" selection-start="4745" selection-end="4745" vertical-scroll-proportion="1.5251142">
+          <folding>
+            <element signature="e#42#74#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
